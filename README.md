@@ -1,4 +1,4 @@
-This is a Java Swing application for managing employee information. This project was created using JDK 17 and Eclipse 2022-12.
+This is a Java Swing application for managing employee information. This project was created using JDK 17
 
 It has the following functionalities:
 
